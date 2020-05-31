@@ -30,7 +30,7 @@ $ git clone https://github.com/IrvingGuerra/AnimacionAsteroides
 
 ### Compilacion 📦
 
-- Server.cpp
+- Animacion normal.cpp
 
 ```sh
 $ make -f Makefile clean 
