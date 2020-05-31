@@ -30,7 +30,7 @@ $ git clone https://github.com/IrvingGuerra/AnimacionAsteroides
 
 ### Compilacion 📦
 
-- Animacion normal.cpp
+- Animación Normal (Solo existen 3 asteroides diferenes - Grande - Mediano - Pequeño)
 
 ```sh
 $ make -f Makefile clean 
@@ -41,6 +41,23 @@ $ make -f Makefile
 ```sh
 $ make -f Makefile run 
 ```
+
+- Animación Random (Todos los asteroides son diferentes e irrepetibles)
+
+```sh
+$ git checkout master_random
+```
+
+```sh
+$ make -f Makefile clean 
+```
+```sh
+$ make -f Makefile 
+```
+```sh
+$ make -f Makefile run 
+```
+
 
 ### Demostracion grafica 🎥
 
